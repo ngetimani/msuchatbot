@@ -1,0 +1,59 @@
+/* Set background color for the entire scene */
+.root {
+    -fx-background-color: #1E90FF;  /* Blue background */
+    -fx-font-family: "Arial";
+    -fx-font-size: 14px;
+}
+
+/* Title Style */
+.title {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    -fx-alignment: center;
+    -fx-padding: 20;
+}
+
+/* Style for labels and text fields */
+.label, .text-field, .password-field {
+    -fx-font-size: 14px;
+    -fx-padding: 10;
+    -fx-background-color: white;
+    -fx-border-radius: 5;
+    -fx-border-width: 1;
+    -fx-border-color: #c0c0c0;
+}
+
+/* Button Style */
+.button {
+    -fx-background-color: #4CAF50;  /* Green color for buttons */
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 10 20;
+    -fx-border-radius: 5;
+}
+
+.button:hover {
+    -fx-background-color: #45a049;  /* Darker green on hover */
+}
+
+/* Footer Style */
+.footer {
+    -fx-font-size: 12px;
+    -fx-text-fill: white;
+    -fx-padding: 10;
+    -fx-alignment: center;
+    -fx-background-color: #003366; /* Dark blue for footer */
+}
+.hyperlink {
+    -fx-font-size: 16px;
+    -fx-text-fill: blue;
+    -fx-text-decoration: underline;
+    -fx-padding: 10px;
+    -fx-background-color: transparent;
+}
+
+.hyperlink:hover {
+    -fx-text-fill: darkblue;
+    -fx-font-weight: bold;
+}
