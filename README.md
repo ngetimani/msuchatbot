@@ -119,7 +119,7 @@ This project is licensed under the **MIT License**. 📄
 
 ---
 
-Made with ❤️ by [@ngetimani](https://github.com/ngetimani)
+Made with ❤️ 
 ```
 
-This version adds animated-style lines, emojis, and a clean structure for better readability and presentation on GitHub. Let me know if you'd like further tweaks! 🎉
+
