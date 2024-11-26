@@ -1,6 +1,4 @@
-Here's your **README.md** file formatted for GitHub, with emojis and animated-style partitioning lines:
 
-```markdown
 # 🚀 MSU Chatbot
 
 A **JavaFX-based chatbot application** designed to provide an intuitive GUI for login, signup, and chat functionalities. 🌟
